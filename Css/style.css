@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.xbox{
+    list-style: none;
+}
+.secondblock{
+    width: 100%;
+    height: 865px;
+    background-color: #5B5F62;
+}
+.thirdblock{
+    width: 100%;
+    height: 880px;
+    background: url('../Img/Rectangle.png') no-repeat;
+}
+.fourblock{
+    width: 100%;
+    height: 480px;
+    background: url('../Img/joystick.png');
+}
+.fourblock h1{
+    color: #ffffff;
+    padding-left: 100px;
+    padding-top:50px;
+    font-size: 48px;
+}
+.fourblock h2{
+    padding-left: 100px;
+    color: #ffffff;
+    font-size: 24px;
+}
+.DesignYours{
+    margin-left: 100px;
+    background: linear-gradient(180deg, #686C6F 0%, #373A3C 100%);
+    border-radius: 4px;
+    width: 207px;
+    height: 80px;
+    color: #ffffff;
+    border:2px solid #686C6F;
+}
+.ExploreConsolesAccessories{
+    width: 278px;
+    height: 80px;
+    background: #8DD83D;
+    border-radius: 4px;
+    margin-left: 10px;
+    color: #FFFFFF;
+    padding-left:20px;
+    border: 5px solid #8DD83D;
+}
+footer{
+    width: 100%;
+    height: 395px;
+    background-color: #373A3C;
+}
+#XBOX{
+    padding-left: 150px;
+    padding-top: 100px;
+}
+#Developers{
+    padding-left: 650px;
+    margin-top: -210px;
+}
+#FollowUs{
+    padding-left: 1250px;
+    margin-top: -200px;
+}
+#instagram{
+    padding-left: 20px;
+}
+#twitter{
+    padding-left: 15px;
+}
+footer a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+#xbox, #developers, #foolowus{
+    color: #7DD42F;
+}
+#line{
+    padding-left: 100px;
+    padding-top: 150px;
+}
+#Thebestvalue{
+    font-size: 48px;
+    line-height: 56px;
+    color: #FFFFFF;
+    text-align: center;
+}
+#ingamesandentertainment{
+    font-size: 36px;
+    line-height: 42px;
+    color: #FFFFFF;
+    text-align: center;
+}
+.card2{
+    margin-left: 800px;
+    margin-top:-200px;
+}
+.card1{
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.card3{
+    margin-left: 1500px;
+    margin-top: -216px;
+}
+.find{
+    width: 150px;
+}
